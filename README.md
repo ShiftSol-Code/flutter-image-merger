@@ -2,10 +2,6 @@
 
 Flutter로 만든 Windows용 이미지 세로 합치기 앱입니다. 여러 이미지를 선택하면 자동으로 세로로 합쳐서 하나의 이미지로 만들어줍니다.
 
-![앱 스크린샷](./docImage/shot1.jpg)
-![앱 스크린샷](./docImage/shot2.jpg)
-![앱 스크린샷](./docImage/shot3.jpg)
-
 ## ✨ 주요 기능
 
 - 🎯 **드래그 앤 드롭**: 파일 탐색기에서 이미지를 드래그하여 앱에 드롭
@@ -105,6 +101,13 @@ flutter run -d windows
 ---
 
 ## 📖 사용 방법
+
+
+![앱 스크린샷](./docImage/shot1.jpg)
+![앱 스크린샷](./docImage/shot2.jpg)
+![앱 스크린샷](./docImage/shot3.jpg)
+
+
 
 ### 이미지 업로드
 
