@@ -102,7 +102,7 @@ flutter run -d windows
 
 ## 📖 압축 프로그램 다운로드
 
-<a href="https://github.com/ShiftSol-Code/flutter-image-merger/releases/ImageMerger_Windows.zip">
+<a href="https://github.com/ShiftSol-Code/flutter-image-merger/releases/download/v1.0.0/ImageMerger_Windows.zip">
   <img alt="Download" src="https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge">
 </a>
 
