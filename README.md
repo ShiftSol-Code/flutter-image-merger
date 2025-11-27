@@ -106,6 +106,8 @@ flutter run -d windows
   <img alt="Download" src="https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge">
 </a>
 
+---
+
 ## 📖 사용 방법
 
 ![앱 스크린샷](./docImage/shot1.jpg)
