@@ -42,3 +42,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+data/flutter_assets/kernel_blob.bin
+build/
+.dart_tool/
+.flutter/
+*.lock
+
+
